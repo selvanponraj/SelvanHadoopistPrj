@@ -1,0 +1,11 @@
+thump,1
+man,-1
+small,-1
+surprise,-1
+system,1
+wrap,1
+left,1
+lives,-1
+place,-1
+lightning,-1
+long,1
